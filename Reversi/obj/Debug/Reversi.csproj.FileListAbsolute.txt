@@ -1,0 +1,73 @@
+P:\Visual Studio\Reversi\Reversi\bin\Debug\Reversi.exe.config
+P:\Visual Studio\Reversi\Reversi\bin\Debug\Reversi.exe
+P:\Visual Studio\Reversi\Reversi\bin\Debug\Reversi.pdb
+P:\Visual Studio\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+P:\Visual Studio\Reversi\Reversi\obj\Debug\Reversi.Form1.resources
+P:\Visual Studio\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+P:\Visual Studio\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+P:\Visual Studio\Reversi\Reversi\obj\Debug\Reversi.exe
+P:\Visual Studio\Reversi\Reversi\obj\Debug\Reversi.pdb
+G:\Reversi\Reversi\bin\Debug\Reversi.exe.config
+G:\Reversi\Reversi\obj\Debug\Reversi.exe
+G:\Reversi\Reversi\obj\Debug\Reversi.pdb
+E:\Reversi\Reversi\bin\Debug\Reversi.exe.config
+E:\Reversi\Reversi\obj\Debug\Reversi.exe
+E:\Reversi\Reversi\obj\Debug\Reversi.pdb
+E:\Reversi\Reversi\obj\Debug\Reversi.Form1.resources
+E:\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+E:\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+E:\Reversi\Reversi\bin\Debug\Reversi.exe
+E:\Reversi\Reversi\bin\Debug\Reversi.pdb
+L:\Reversi\Reversi\obj\Debug\Reversi.Form1.resources
+L:\Reversi\Reversi\obj\Debug\Reversi.NameWindow.resources
+L:\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+L:\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+L:\Reversi\Reversi\bin\Debug\Reversi.exe.config
+L:\Reversi\Reversi\bin\Debug\Reversi.exe
+L:\Reversi\Reversi\bin\Debug\Reversi.pdb
+L:\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+L:\Reversi\Reversi\obj\Debug\Reversi.exe
+L:\Reversi\Reversi\obj\Debug\Reversi.pdb
+E:\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+E:\Reversi\Reversi\obj\Debug\Reversi.NameWindow.resources
+E:\Reversi\Reversi\obj\Debug\Reversi.WinWindow.resources
+E:\Reversi\Reversi\obj\Debug\Reversi.WrongMove.resources
+L:\Reversi\Reversi\obj\Debug\Reversi.WinWindow.resources
+L:\Reversi\Reversi\obj\Debug\Reversi.WrongMove.resources
+C:\Dropbox\Dropbox\Reversi\Reversi\bin\Debug\Reversi.exe.config
+C:\Dropbox\Dropbox\Reversi\Reversi\obj\Debug\Reversi.exe
+C:\Dropbox\Dropbox\Reversi\Reversi\obj\Debug\Reversi.pdb
+C:\Dropbox\Dropbox\Reversi\Reversi\bin\Debug\Reversi.exe
+C:\Dropbox\Dropbox\Reversi\Reversi\bin\Debug\Reversi.pdb
+C:\Dropbox\Dropbox\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dropbox\Reversi\Reversi\obj\Debug\Reversi.Form1.resources
+C:\Dropbox\Dropbox\Reversi\Reversi\obj\Debug\Reversi.NameWindow.resources
+C:\Dropbox\Dropbox\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+C:\Dropbox\Dropbox\Reversi\Reversi\obj\Debug\Reversi.WinWindow.resources
+C:\Dropbox\Dropbox\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\Szymon\Dropbox\Reversi\Reversi\bin\Debug\Reversi.exe.config
+C:\Users\Szymon\Dropbox\Reversi\Reversi\obj\Debug\Reversi.exe
+C:\Users\Szymon\Dropbox\Reversi\Reversi\obj\Debug\Reversi.pdb
+C:\Users\Szymon\Dropbox\Reversi\Reversi\bin\Debug\Reversi.exe
+C:\Users\Szymon\Dropbox\Reversi\Reversi\bin\Debug\Reversi.pdb
+C:\Users\Szymon\Dropbox\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Dropbox\Reversi\Reversi\obj\Debug\Reversi.Form1.resources
+C:\Users\Szymon\Dropbox\Reversi\Reversi\obj\Debug\Reversi.NameWindow.resources
+C:\Users\Szymon\Dropbox\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+C:\Users\Szymon\Dropbox\Reversi\Reversi\obj\Debug\Reversi.WinWindow.resources
+C:\Users\Szymon\Dropbox\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Dropbox\Dropbox\Reversi\Reversi\obj\Debug\Reversi.NameWindowAI.resources
+C:\Users\Szymon\Dropbox\Reversi\Reversi\obj\Debug\Reversi.NameWindowAI.resources
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\bin\Debug\Reversi.exe.config
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\bin\Debug\Reversi.exe
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\bin\Debug\Reversi.pdb
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\obj\Debug\Reversi.Form1.resources
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\obj\Debug\Reversi.NameWindow.resources
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\obj\Debug\Reversi.NameWindowAI.resources
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\obj\Debug\Reversi.WinWindow.resources
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\obj\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\obj\Debug\Reversi.exe
+C:\Users\Szymon\Downloads\Portfolio\Games\Reversi\Reversi\Reversi\obj\Debug\Reversi.pdb
